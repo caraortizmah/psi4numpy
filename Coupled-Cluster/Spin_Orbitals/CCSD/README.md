@@ -36,3 +36,8 @@ Input Parameters:
 
 - Runge-Kutta integration:
     1. [[Cheever:2015](http://lpsa.swarthmore.edu/NumInt/NumIntIntro.html)] E. Cheever, "Approximation of Differential Equations by Numerical Integration," web. (2015)
+
+#### To-do list for ROCCSD:
+
+check this paper:
+(spin-restricted-brueckner) [https://crawford.chem.vt.edu/wp-content/uploads/2019/11/Spin-restricted-Brueckner-orbitals-for-coupled-cluster-wavefunctions.pdf]
