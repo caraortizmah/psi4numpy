@@ -41,3 +41,7 @@ Input Parameters:
 
 check this paper:
 (spin-restricted-brueckner) [https://crawford.chem.vt.edu/wp-content/uploads/2019/11/Spin-restricted-Brueckner-orbitals-for-coupled-cluster-wavefunctions.pdf]
+<!--- to see as refrence:
+https://psicode.org/psi4manual/master/api/psi4.core.MintsHelper.html#psi4.core.MintsHelper
+https://psicode.org/psi4manual/master/api/psi4.core.Wavefunction.html
+--->
